@@ -1,0 +1,16 @@
+{
+  "name": "tower_defense",
+  "version": "1.0.0",
+  "description": "functional tower defense game in typescript ",
+  "main": "bundle.js",
+  "dependencies": {
+    "ts-loader": "^2.0.3",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "Marcel Rusu",
+  "license": "ISC"
+}
